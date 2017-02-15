@@ -19,5 +19,8 @@
     "parallel"
   ],
   "author": "Yehuda Miller",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "2.1.6"
+  }
 }
