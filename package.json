@@ -1,10 +1,14 @@
 {
   "name": "cuke-slicer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool to slice up your CucumberJS test suite into small, easy to parallelize pieces.",
   "main": "index.js",
   "scripts": {
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pittgoose/cuke-slicer.git"
   },
   "keywords": [
     "cucumberjs",
