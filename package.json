@@ -1,6 +1,6 @@
 {
   "name": "cuke-slicer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A tool to slice up your CucumberJS test suite into small, easy to parallelize pieces.",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
     "parallel"
   ],
   "author": "Yehuda Miller",
-  "license": "ISC"
+  "license": "MIT"
 }
