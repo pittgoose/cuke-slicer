@@ -1,0 +1,19 @@
+{
+  "name": "cuke-slicer",
+  "version": "0.0.1",
+  "description": "A tool to slice up your CucumberJS test suite into small, easy to parallelize pieces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cucumberjs",
+    "protractor",
+    "cucumber",
+    "gherkin",
+    "slice",
+    "parallel"
+  ],
+  "author": "Yehuda Miller",
+  "license": "ISC"
+}
